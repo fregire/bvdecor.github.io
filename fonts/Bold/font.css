@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'HelveticaBold';
+  src: url('HelveticaBold.eot');
+  src: url('HelveticaBold.woff2') format('woff2'),
+       url('HelveticaBold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaCE-Bold';
+  src: url('HelveticaCE-Bold.woff') format('woff'),
+       url('HelveticaCE-Bold.ttf') format('truetype'),
+       url('HelveticaCE-Bold.svg#HelveticaCE-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

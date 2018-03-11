@@ -1,0 +1,23 @@
+@font-face {
+	font-family: "HelveticaBold";
+	src: url("../fonts/Bold/HelveticaBold.eot"); /* Для поддержки браузера IE6+ */
+	src: url("../fonts/Bold/HelveticaBold.eot?#iefix") format("embedded-opentype"), /* Хак корректного отображения шрифта в IE8 */
+	url("../fonts/Bold/HelveticaCE-Bold.woff") format("woff"), /* Для современных браузеров */
+	url("../fonts/Bold/HelveticaBold.ttf") format("truetype"),
+	url("../fonts/Bold/HelveticaCE-Bold.svg#arbat") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica-Regular';
+  src: url('../fonts/Regular/Helvetica-Regular.eot');
+  src: url('../fonts/Regular/Helvetica-Regular.woff2') format('woff2'),
+       url('../fonts/Regular/Helvetica-Regular.woff') format('woff'),
+       url('../fonts/Regular/Helvetica-Regular.ttf') format('truetype'),
+       url('../fonts/Regular/Helvetica-Regular.svg#Helvetica-Regular') format('svg'),
+       url('../fonts/Regular/Helvetica-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
