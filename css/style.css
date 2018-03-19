@@ -491,7 +491,12 @@ body {
 }
 .first-pict-2,
 .second-pict-2,
-.fourth-pict-2 {
+.fourth-pict-2,
+.main,
+.third-pict,
+.fourth-pict,
+.main-2,
+.third-pict-2{
   background-size: cover;
 }
 .owl-carousel {
@@ -535,8 +540,8 @@ body {
 }
 .products__item {
   margin-top: 1rem;
-  -ms-flex-preferred-size: 20rem;
-      flex-basis: 20rem;
+  -ms-flex-preferred-size: 16.5rem;
+      flex-basis: 16.5rem;
   position: relative;
   height: 20rem;
   background: url(../img/products/1.jpg);
